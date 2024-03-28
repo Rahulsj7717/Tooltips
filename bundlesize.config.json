@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "./dist/react-tooltip.min.cjs",
+      "maxSize": "10 kB"
+    },
+    {
+      "path": "./dist/react-tooltip.min.mjs",
+      "maxSize": "10 kB"
+    },
+    {
+      "path": "./dist/react-tooltip.umd.min.js",
+      "maxSize": "10 kB"
+    }
+  ]
+}
